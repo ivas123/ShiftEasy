@@ -23,7 +23,7 @@
     android:layout_height="match_parent"/>
         <fragment
             android:id="@+id/fragment_navigation_drawer"
-            android:name="com.example.ivan.ShiftEasy.NavigationDrawerFragment"
+            android:name="com.example.ivan.shift_easy.NavigationDrawerFragment"
             android:layout_width="280dp"
             android:layout_height="match_parent"
             android:layout_gravity="start"

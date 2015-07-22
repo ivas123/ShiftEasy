@@ -14,7 +14,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.ivan.ShiftEasy.R;
+import com.example.ivan.shift_easy.R;
 
 import java.util.ArrayList;
 import java.util.List;

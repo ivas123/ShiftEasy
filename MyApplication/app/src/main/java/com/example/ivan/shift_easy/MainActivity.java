@@ -7,7 +7,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.ivan.ShiftEasy.R;
+import com.example.ivan.shift_easy.R;
 
 
 public class MainActivity extends AppCompatActivity {

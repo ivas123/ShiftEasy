@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primaryColor">#</color>
-    <color name="darkPrimaryColor">#</color>
-    <color name="lightPrimaryColor">#</color>
-    <color name="iconsColor">#</color>
-    <color name="accentColor">#</color>
-    <color name="primaryTextColor">#</color>
-    <color name="secondaryTextColor">#</color>
-    <color name="dividerColor">#</color>
+    <color name="primaryColor">#212121</color>
+    <color name="darkPrimaryColor">#212121</color>
+    <color name="lightPrimaryColor">#212121</color>
+    <color name="iconsColor">#212121</color>
+    <color name="accentColor">#212121</color>
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#212121</color>
+    <color name="dividerColor">#212121</color>
 </resources>
